@@ -1,0 +1,71 @@
+[
+    {
+        "from": "0",
+        "to": "150000",
+        "new_construction_do": "3865",
+        "new_construction_do_cnr": "3966",
+        "renovation_extension_do": "3479",
+        "renovation_extension_do_cnr": "3580"
+    },
+    {
+        "from": "150001",
+        "to": "175000",
+        "new_construction_do": "4026",
+        "new_construction_do_cnr": "4143",
+        "renovation_extension_do": "3640",
+        "renovation_extension_do_cnr": "3757"
+    },
+    {
+        "from": "175001",
+        "to": "200000",
+        "new_construction_do": "4219",
+        "new_construction_do_cnr": "4353",
+        "renovation_extension_do": "3801",
+        "renovation_extension_do_cnr": "3935"
+    },
+    {
+        "from": "200001",
+        "to": "250000",
+        "new_construction_do": "4589",
+        "new_construction_do_cnr": "4756",
+        "renovation_extension_do": "4122",
+        "renovation_extension_do_cnr": "4290"
+    },
+    {
+        "from": "250001",
+        "to": "300000",
+        "new_construction_do": "4830",
+        "new_construction_do_cnr": "5031",
+        "renovation_extension_do": "4460",
+        "renovation_extension_do_cnr": "4661"
+    },
+    {
+        "from": "300001",
+        "to": "350000",
+        "new_construction_do": "5091",
+        "new_construction_do_cnr": "5326",
+        "renovation_extension_do": "4475",
+        "renovation_extension_do_cnr": "4709"
+    },
+    {
+        "from": "350001",
+        "to": "400000",
+        "new_construction_do": "5554",
+        "new_construction_do_cnr": "5822",
+        "renovation_extension_do": "4999",
+        "renovation_extension_do_cnr": "5267"
+    },
+    {
+        "from": "400001",
+        "to": "500000",
+        "new_construction_do": "6170",
+        "new_construction_do_cnr": "6505",
+        "renovation_extension_do": "5554",
+        "renovation_extension_do_cnr": "5889"
+    },
+    {
+        "from": "500001",
+        "to": "10+M",
+        "new_construction_do": "nousconsulter"
+    }
+]
